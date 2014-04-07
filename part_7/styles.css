@@ -2,4 +2,57 @@
 
 * {
   border: thin red solid;
+  font-family: serif;
+}
+
+h1 {
+	height: 200px;
+	background-color: #D8D8D8;
+}
+
+.button {
+	height: 30px;
+	width: 150px;
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	background-color: blue;
+}
+
+#info {
+	clear: both;
+}
+
+.block {
+	width: 33%;
+	float:left;
+}
+
+#screen {
+	clear: both;
+}
+
+.description {
+	width: 33%;
+	float: left;
+}
+
+.screenshot {
+	width: 66%;
+	float: left;
+}
+
+#tests {
+	clear: both;
+}
+
+.testimonial {
+	width: 25%;
+	float: left;
+}
+
+#footer {
+	clear: both;
 }
